@@ -5,7 +5,7 @@
   "repository": "https://github.com/MohanRamaera/PrismaPlanetssera.git",
   "author": "MohanSharma",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@prisma/client": "^5.9.1",
     "@types/node": "^20.11.16",
